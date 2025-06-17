@@ -129,3 +129,5 @@ Quando não estou quebrando (e depois consertando) código, você provavelmente 
   />
 
 </p>
+
+<img src="https://raw.githubusercontent.com/h2otavio/h2otavio/output/snake.svg" alt="Snake animation" />
